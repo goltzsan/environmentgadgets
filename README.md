@@ -2,7 +2,7 @@
  
 ## Vim setup
 
-** .vimrc
-** touch ~/.vim
-** install  git
-** install curl
+* .vimrc
+* touch ~/.vim
+* install  git
+* install curl
